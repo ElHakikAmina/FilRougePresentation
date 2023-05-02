@@ -1,0 +1,55 @@
+
+
+Introduction:
+Le lancement d'un business commercial, qu'il soit en ligne ou hors ligne, nécessite une planification minutieuse et une recherche de plusieurs ressources.
+ Les marchands débutants sont confrontés au défi de trouver des fournisseurs, ce qui peut leur faire perdre beaucoup de temps à chercher des grossistes
+ idéaux pour leur entreprise. Ils peuvent même avoir des difficultés à trouver des grossistes, et même s'ils y parviennent, 
+ils peuvent avoir du mal à entrer en contact avec eux. Pour les unités de production débutantes telles que les coopératives ou les artisans 
+produisant des produits cosmétiques, le principal défi est de se faire connaître sur le marché et d'attirer des clients.
+
+
+
+
+
+
+Introduction : présentez le but et l'objectif du site, et expliquez pourquoi il est important pour les utilisateurs.
+
+Fonctionnalités : décrivez les différentes fonctionnalités du site, telles que l'inscription, la recherche de produits, la commande en ligne, la gestion
+ de compte, etc.
+
+Design : montrez comment le design du site a été pensé pour faciliter l'expérience utilisateur et pour répondre aux besoins des clients.
+
+Sécurité : expliquez les mesures de sécurité prises pour protéger les informations des clients et les transactions financières.
+
+Technologie : discutez des technologies utilisées pour développer le site, telles que les langages de programmation, les bases de données, les API, etc.
+
+Marketing : présentez les stratégies de marketing utilisées pour promouvoir le site et attirer des clients, comme le référencement naturel, les publicités
+ en ligne, les partenariats avec des blogueurs/influenceurs.
+
+Analyse des résultats : donnez des exemples de résultats et de performances du site, tels que le taux de conversion, le chiffre d'affaires, le nombre de 
+visites.
+
+Conclusion : résumez les points clés et expliquez comment le site peut aider les utilisateurs à atteindre leurs objectifs.
+
+
+
+la programmation orientée objet est un modéle de programmation qui repose sur le concept de classes et d'objets
+
+En poo, une interface est un ensemble de signatures de méthode publiques d'un objet
+
+l'heritage: est un principe propre à la programmation orientée objet orientée objet, permettant de créer une nouvelle classe à partir d'une classe exestante
+
+Le polymorphisme est un mécanisme important dans la programmation objet. Il permet de modifier le comportement d'une classe fille par rapport à sa classe
+mere.Le polymorphisme permet d'utiliser l'heritage comme un mecanisme d'extension en adaptant le comportement des objets
+
+
+
+L'encapsulation: est un mécanisme consistant à rassembler les données et les méthodes au sein d'une structure en cachant l'implementaion de l'objet
+
+L'abstraction est l'un des concept clés dans la programmation orientée objet (POO). son objectif principal est de gérer la complexité en masquant les details inutiles à l'utilisateur
+
+clase abstraite est une classe qui est pas instanciable.
+
+En programmation orientée objet, une interface est un ensemble de signatures de méthodes publiques d'un objet.
+
+
